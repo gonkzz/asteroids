@@ -10,11 +10,7 @@ The easiest way is with [uv](https://docs.astral.sh/uv/), which sets up Python a
 uv run main.py
 ```
 
-Install uv:
-
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
+[Install uv](https://docs.astral.sh/uv/getting-started/installation/).
 
 ### Without uv
 
